@@ -1,4 +1,4 @@
-# Miguezeiros - Projeto 1 :computer:
+# Miguezeiros - Projeto 1:computer:
 Repositório do grupo **'Miguezeiros'**, composto por @lucaswatanuki, @filipesbernardo e @rmzanco para a disciplina **Sistemas Operacioinais**.
 
 ## Objetivo :dart:
